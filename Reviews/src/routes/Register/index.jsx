@@ -55,7 +55,7 @@ export default function Register() {
         </button>
         <div className="footer">
           <p>Você já tem uma conta?</p>
-          <Link to="/">Acesse sua conta aqui</Link>
+          <Link to="/Login">Acesse sua conta aqui</Link>
         </div>
       </form>
     </div>
